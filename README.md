@@ -43,6 +43,12 @@ Processamento das promoções
 
 Os scrapers são executados automaticamente através de uma tarefa agendada, enquanto a API permite consultar as promoções armazenadas.
 
+## 🖥️ Frontend
+
+Interface web responsável por consumir e exibir as promoções disponibilizadas pela API.
+
+[Repositório do frontend](https://github.com/aalisonbarbosa/miles-scraping-study-web)
+
 ## 🚀 Executando o projeto
 
 ### Instalação
